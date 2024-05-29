@@ -61,6 +61,10 @@
     .about-containers,.contact-info-upper-container,.btn-container{
         flex-wrap: wrap;
     }
+    
+    .about-containers{      /* Added by me */
+        flex-direction: column;
+    }
     .contact-info-container{
         margin: 0;
     }
