@@ -282,6 +282,10 @@ section{
     margin-left: -5vw;
 }
 
+.about-text-p{
+    font-size: 1.15rem;
+    margin-bottom: .8rem;
+}
 
 .arrow{
     position: absolute;
